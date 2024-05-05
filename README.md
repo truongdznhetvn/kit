@@ -11,7 +11,7 @@ getgenv().config = {
     ["SkipFruit"] = {
         "Portal-Portal"
     },
-    ["Skip Race V4 User"] = true,
+    ["Skip Race V4 User"] = false,
     ["MainSkillToggle"] = {
         ["Melee"] = {
             ["Enable"] = true,
@@ -33,7 +33,7 @@ getgenv().config = {
             },
         },
         ["Blox Fruit"] = {
-            ["Enable"] = false,
+            ["Enable"] = true,
             ["Delay"] = 3,
             ["Skills"] = {
                 ["Z"] = {
