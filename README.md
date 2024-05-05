@@ -91,7 +91,7 @@ getgenv().config = {
         ["Link Webhook"] = "",
         ["Toggle Webhook"] = true
     },
-    ["ChatSpam"] = {truongdz vc },
+    ["ChatSpam"] = {"truongdz vc"},
     ["MinBountyHunt"] = 0,
     ["MaxBountyHunt"] = 30000000,
     ["SafeHealth"] = 4000
